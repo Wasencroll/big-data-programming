@@ -1,5 +1,5 @@
 .Rproj.user
 .RData
 .Rhistory
-.Rproj
-.Ink
+*.Rproj
+*.lnk
