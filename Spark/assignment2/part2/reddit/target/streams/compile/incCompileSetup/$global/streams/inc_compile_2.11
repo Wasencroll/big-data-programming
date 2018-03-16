@@ -1,0 +1,208 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Spark\alexander-croll\part2\reddit\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> C:\Spark\alexander-croll\part2\reddit\target\scala-2.11\classes\Comments$$anonfun$1.class
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> C:\Spark\alexander-croll\part2\reddit\target\scala-2.11\classes\Comments$.class
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> C:\Spark\alexander-croll\part2\reddit\target\scala-2.11\classes\Comments.class
+binary dependencies:
+5 items
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> C:\Users\alcroll\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.0.1.jar
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> C:\Users\alcroll\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.0.1.jar
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> C:\Users\alcroll\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.0.1.jar
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> C:\Users\alcroll\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Comments
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Comments$
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Comments$$anonfun$1
+used names:
+109 items
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> $
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> <=
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> <init>
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> <repeated>
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> A1
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Any
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> AnyRef
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Array
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> ArrayOps
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Boolean
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Builder
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Column
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> ColumnName
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Comments
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> DataFrame
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> DataFrameReader
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> DataFrameWriter
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Dataset
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Function1
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Int
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Long
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Nothing
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Object
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Predef
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> RDD
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> RelationalGroupedDataset
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Row
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> SparkConf
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> SparkContext
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> SparkSession
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> String
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> StringContext
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> StringToColumn
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> T
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> TypedColumn
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Unit
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> Window
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> WindowSpec
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> agg
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> alias
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> apache
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> apply
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> as
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> asc
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> avg
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> best52
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> bestComments
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> builder
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> cast
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> coalesce
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> col
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> collect
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> conf
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> contains
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> count
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> countPerHour
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> dataPath
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> desc
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> explode
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> expressions
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> filter
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> format
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> from_unixtime
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> functions
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> getOrCreate
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> groupBy
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> hour
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> implicits
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> limit
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> line
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> maxUps
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> option
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> orderBy
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> org
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> over
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> package
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> parquet
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> partitionBy
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> rank
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> read
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> redditDF
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> reddit_raw
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> refArrayOps
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> round
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> roundedUpsPerSubreddit
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> save
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> sc
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> scala
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> select
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> setAppName
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> setLogLevel
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> sort
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> spark
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> split
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> sql
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> stop
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> swPath
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> textFile
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> toString
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> top200words
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> unary_!
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> upsPerSubreddit
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> w
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> weekofyear
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> where
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> withColumn
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> words
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> write
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> wrong
+product stamps:
+3 items
+C:\Spark\alexander-croll\part2\reddit\target\scala-2.11\classes\Comments$$anonfun$1.class -> lastModified(1480793289256)
+C:\Spark\alexander-croll\part2\reddit\target\scala-2.11\classes\Comments$.class -> lastModified(1480793289236)
+C:\Spark\alexander-croll\part2\reddit\target\scala-2.11\classes\Comments.class -> lastModified(1480793289141)
+source stamps:
+1 items
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> hash(efbb03ae341d52e42094f1748c52dbb84704f7ef)
+binary stamps:
+5 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> lastModified(1475943226756)
+C:\Users\alcroll\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.0.1.jar -> lastModified(1475112874000)
+C:\Users\alcroll\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.0.1.jar -> lastModified(1475112664000)
+C:\Users\alcroll\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.0.1.jar -> lastModified(1475113023000)
+C:\Users\alcroll\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457496963000)
+class names:
+5 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> java.lang.Object
+C:\Users\alcroll\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.0.1.jar -> org.apache.spark.sql.Row
+C:\Users\alcroll\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.0.1.jar -> org.apache.spark.rdd.RDD
+C:\Users\alcroll\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.0.1.jar -> org.apache.spark.sql.RelationalGroupedDataset
+C:\Users\alcroll\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.Int
+internal apis:
+1 items
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwVz1bbQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwGVJZNnQABm5vdGlmeXNxAH4ADOtf33l0AAR3YWl0c3EAfgAMncXlm3QADSRhc0luc3RhbmNlT2ZzcQB+AAyegZMfdAAGZXF1YWxzc3EAfgAMf6CxTnQACENvbW1lbnRzc3EAfgAMzesuWXQADGFzSW5zdGFuY2VPZnNxAH4ADPYPJ3h0AAxzeW5jaHJvbml6ZWRzcQB+AAzsPjThdAANJGlzSW5zdGFuY2VPZnNxAH4ADBjbARp0AARtYWluc3EAfgAMrR/2AnQACW5vdGlmeUFsbHNxAH4ADMdhKkR0AAxpc0luc3RhbmNlT2ZzcQB+AAyybowudAACPT1zcQB+AAyEYb/ydAAFY2xvbmVzcQB+AAww+gLwdAAIdG9TdHJpbmdzcQB+AAznTACwdAACIT1zcQB+AAzlgqWwdAAIZ2V0Q2xhc3NzcQB+AAyvMVu3dAACbmVzcQB+AAzeazrCdAACZXFzcQB+AAxnbWL/dAACIyNzcQB+AAxuHH1sdAAIZmluYWxpemVzcQB+AAzTYpOPdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ABd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBdc3EAfgBYdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFx0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBcc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB4dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AU3QABVBsYWludAADYXJnc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBsWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBcc3EAfgBrdAAFQXJyYXlxAH4AcXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBrdAAGU3RyaW5nc3EAfgBvc3EAfgBydXEAfgB1AAAAA3NxAH4Ad3QABGphdmFzcQB+AHd0AARsYW5ncQB+AHxzcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXEAfgCQAAAAAnNxAH4Aa3QABk9iamVjdHEAfgCUc3EAfgBrdAADQW55cQB+AHF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMYoXkN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA/QzpcU3BhcmtcYWxleGFuZGVyLWNyb2xsXHBhcnQyXHJlZGRpdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU77sDrjQdUuQglPF0jFLbuEcE9+8=
+external apis:
+0 items
+source infos:
+1 items
+C:\Spark\alexander-croll\part2\reddit\src\main\scala\Comments.scala -> 
+AAAAAAAAAAA=
+compilations:
+10 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWLwDIQd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAm0M6XFVzZXJzXGFsY3JvbGxcT25lRHJpdmUgLSBEZWxvaXR0ZSAoTzM2NUQpXERvY3VtZW50c1xISVMgLSBEYXRhIFNjaWVuY2VcQmlnIERhdGEgUHJvZ3JhbW1pbmdcU3BhcmtcYWxleGFuZGVyLWNyb2xsXHBhcnQyXHJlZGRpdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWLwb3gZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFNwYXJrXGFsZXhhbmRlci1jcm9sbFxwYXJ0MlxyZWRkaXRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWLyHjhd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFNwYXJrXGFsZXhhbmRlci1jcm9sbFxwYXJ0MlxyZWRkaXRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWLyIa1l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFNwYXJrXGFsZXhhbmRlci1jcm9sbFxwYXJ0MlxyZWRkaXRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWLyJKCl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFNwYXJrXGFsZXhhbmRlci1jcm9sbFxwYXJ0MlxyZWRkaXRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWLyQLTV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFNwYXJrXGFsZXhhbmRlci1jcm9sbFxwYXJ0MlxyZWRkaXRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWLyZOtd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFNwYXJrXGFsZXhhbmRlci1jcm9sbFxwYXJ0MlxyZWRkaXRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWLzybO51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFNwYXJrXGFsZXhhbmRlci1jcm9sbFxwYXJ0MlxyZWRkaXRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWL1plFF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFNwYXJrXGFsZXhhbmRlci1jcm9sbFxwYXJ0MlxyZWRkaXRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+9 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMYoXkN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFNwYXJrXGFsZXhhbmRlci1jcm9sbFxwYXJ0MlxyZWRkaXRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
